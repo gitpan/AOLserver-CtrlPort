@@ -9,8 +9,8 @@ use warnings;
 use Net::Telnet;
 use Log::Log4perl qw(:easy);
 
-our $VERSION    = '0.01';
-our $CVSVERSION = '$Revision: 1.2 $';
+our $VERSION    = '0.02';
+our $CVSVERSION = '$Revision: 1.3 $';
 
 =head1 NAME
 
